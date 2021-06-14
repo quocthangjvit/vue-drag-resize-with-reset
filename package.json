@@ -1,6 +1,6 @@
 {
   "name": "vue-drag-resize-with-reset",
-  "version": "1.4.3",
+  "version": "1.4.4",
   "description": "Vue Component for resize and drag elements",
   "author": "Quoc Thang <quocthang@jv-it.com.vn>",
   "main": "dist/index.js",
